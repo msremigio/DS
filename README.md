@@ -19,7 +19,7 @@
 ## Projetos:
 
 
-* **Data Science: Investigando o naufrágio do Titanic:** 
+* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2SBpnJM
 
 ---
 
