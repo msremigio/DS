@@ -9,7 +9,7 @@
 
 
 
-**Background in:** Python, Machine Learning.
+**Background in:** Python, Machine Learning, Data Analysis.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/msremigio/)
@@ -20,6 +20,6 @@
 
 
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2SBpnJM
-
+* **Data Science: Machine Learning para detecção do câncer de mama:**
 ---
 
