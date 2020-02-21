@@ -20,6 +20,6 @@
 
 
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2SBpnJM
-* **Data Science: Machine Learning para detecção do câncer de mama:**
+* **Data Science: Machine Learning para detecção do câncer de mama:** https://bit.ly/2ui4ewf
 ---
 
