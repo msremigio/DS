@@ -13,6 +13,7 @@
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/msremigio/)
+* [Medium](https://medium.com/@msremigio)
 
 
 
@@ -21,5 +22,6 @@
 
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2SBpnJM
 * **Data Science: Machine Learning para detecção do câncer de mama:** https://bit.ly/2ui4ewf
+* **Data Science: Exploratory Analysis: Airbnb Chicago:**
 ---
 
