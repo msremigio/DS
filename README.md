@@ -25,3 +25,6 @@
 * **Data Science: Exploratory Analysis: Airbnb Chicago:**
 ---
 
+## About me:
+
+Graduação em Engenharia Elétrica pela UFPB.
