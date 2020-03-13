@@ -7,24 +7,20 @@
 # Matheus Remigio
 <sub>*Data Science Enthusiast*</sub>
 
-
-
-**Background in:** Python, Machine Learning, Data Analysis.
+**Background in:** Python, Data Science, Machine Learning, Data Analysis and Statistics.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/msremigio/)
 * [Medium](https://medium.com/@msremigio)
-
-
 
 ## Projetos:
 
 
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2SBpnJM
 * **Data Science: Machine Learning para detecção do câncer de mama:** https://bit.ly/2ui4ewf
-* **Data Science: Exploratory Analysis: Airbnb Chicago:** https://bit.ly/2POpssY
+* **Data Science: Análise exploratória: Airbnb Chicago:** https://bit.ly/2POpssY
 ---
 
 ## About me:
 
-Graduação em Engenharia Elétrica pela UFPB.
+Graduado em Engenharia Elétrica pela UFPB. Durante a graduação tive oportunidade de conhecer parcialmente vários campos de atuação possíveis de um Engenheiro eletricista. Tive uma primeira experiência profissional como estagiário na área de microeletrônica e posteriormente me descobri motivado pela Ciência de dados e de todo o potencial que a análise de dados proporciona.
