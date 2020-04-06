@@ -1,4 +1,8 @@
-[![author](https://img.shields.io/badge/author-msremigio-red.svg)](https://www.linkedin.com/in/msremigio/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/msremigio/projects_DataScience/tree/master/issues)                                                         [![codewars badge](https://www.codewars.com/users/msremigio/badges/micro)](https://www.codewars.com/users/msremigio)
+[![author](https://img.shields.io/badge/author-msremigio-red.svg)](https://www.linkedin.com/in/msremigio/) 
+[![py release](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) 
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/msremigio/projects_DataScience/tree/master/issues)
+[![codewars badge](https://www.codewars.com/users/msremigio/badges/micro)](https://www.codewars.com/users/msremigio)
 
 
 <p align="center">
