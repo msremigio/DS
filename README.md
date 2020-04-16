@@ -10,7 +10,7 @@
 </p>
 
 # Matheus Remigio
-<sub>*Data Science Enthusiast*</sub>
+<sub>*Data Science Student*</sub>
 
 **Background in:** Python, Data Science, Machine Learning, Data Analysis and Statistics.
 
