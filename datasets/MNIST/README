@@ -1,0 +1,6 @@
+This data base is available at: http://yann.lecun.com/exdb/mnist/
+
+All the information necessary to manipulate and use this data set can be found at the same website above.
+
+[LeCun et al., 1998a]
+Y. LeCun, L. Bottou, Y. Bengio, and P. Haffner. "Gradient-based learning applied to document recognition." Proceedings of the IEEE, 86(11):2278-2324, November 1998.
